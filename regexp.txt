@@ -1,0 +1,8 @@
+www.myhost.com
+www.MyHost.com
+www.my-host.com
+www.my - host.com
+www.My - Host.com
+www.My-Host.com --no
+www.otherhost.com --no
+www.motherhost.com --no
